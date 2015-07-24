@@ -1,3 +1,11 @@
+/**********************************************************
+*  modularExponentiation.c                                *
+*  modularExponentiation-recursive                        *
+*                                                         *
+*  Created by Vedant Mathur on 7/24/15.                   *
+*  Copyright (c) 2015 Vedant Mathur. All rights reserved. *
+**********************************************************/
+
 //include statements
 #include <stdio.h>
 #include <string.h>
